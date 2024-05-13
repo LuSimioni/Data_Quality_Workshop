@@ -1,2 +1,2 @@
 def funcao_ola():
-    print("Olá!!!!")
+    return "Olá pessoas!"
